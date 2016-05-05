@@ -12,6 +12,7 @@
 		FACE8AD21BD6FB0B00B9D055 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FACE8AD01BD6FB0B00B9D055 /* Main.storyboard */; };
 		FACE8AD41BD6FB0B00B9D055 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACE8AD31BD6FB0B00B9D055 /* Assets.xcassets */; };
 		FACE8AD71BD6FB0B00B9D055 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FACE8AD51BD6FB0B00B9D055 /* LaunchScreen.storyboard */; };
+		FACE8ADF1BD70CDD00B9D055 /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = FACE8ADE1BD70CDD00B9D055 /* cat.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FACE8AD31BD6FB0B00B9D055 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FACE8AD61BD6FB0B00B9D055 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FACE8AD81BD6FB0B00B9D055 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FACE8ADE1BD70CDD00B9D055 /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FACE8ACC1BD6FB0B00B9D055 /* AppDelegate.swift */,
 				FACE8ACE1BD6FB0B00B9D055 /* ViewController.swift */,
 				FACE8AD01BD6FB0B00B9D055 /* Main.storyboard */,
+				FACE8ADE1BD70CDD00B9D055 /* cat.png */,
 				FACE8AD31BD6FB0B00B9D055 /* Assets.xcassets */,
 				FACE8AD51BD6FB0B00B9D055 /* LaunchScreen.storyboard */,
 				FACE8AD81BD6FB0B00B9D055 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				FACE8AD71BD6FB0B00B9D055 /* LaunchScreen.storyboard in Resources */,
 				FACE8AD41BD6FB0B00B9D055 /* Assets.xcassets in Resources */,
+				FACE8ADF1BD70CDD00B9D055 /* cat.png in Resources */,
 				FACE8AD21BD6FB0B00B9D055 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
